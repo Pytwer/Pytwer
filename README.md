@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="[SEU-LINK]">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pytwer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" />
-  </a>
+  
   <a href="[SEU-LINK]">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
   </a>
