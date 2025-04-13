@@ -8,7 +8,7 @@
 ## **🛠 Tech Stack**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,git,github,vscode" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,cpp,figma,git,github,vscode" alt="Tech Icons" />
 </div>
 
 ## **🚀 Projetos Destacados**  
@@ -24,12 +24,9 @@
 
 <div align="center">
   <a href="www.linkedin.com/in/pytwerdev">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://meuportifoliopytwer.vercel.app"/>
-    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/pytwer.dev/"> 
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> 
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> 
   </a> 
 </div>
