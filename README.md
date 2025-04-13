@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Pytwer!;Desenvolvedor+Front-End;Apaixonado+por+Programação+%3C3" alt="Typing SVG" />
 </div>
-<a href="[SEU-LINK]">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pytwer&show_icons=false&theme=radical&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" />
-  </a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Pytwer!;Desenvolvedor+Front-End;Apaixonado+por+Programação+%3C3" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="">
+</div>
 
 ## **🛠 Tech Stack**  
 
