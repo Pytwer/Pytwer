@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Pytwer!;Desenvolvedor+Front-End;Apaixonado+por+Programação+%3C3" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pytwer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pytwer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&hide_avatar=true" alt="GitHub Stats" />
 </div>
 
 ## **🛠 Tech Stack**  
