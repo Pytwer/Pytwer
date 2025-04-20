@@ -13,7 +13,7 @@
 
 | Projeto | Descrição | Tecnologias |  
 |---------|-----------|-------------|  
-| **[Projeto 1](https://desafio3-neon.vercel.app/)** | Um projeto incrível desenvolvido com HTML, CSS e JavaScript puro. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |  
+| **[Projeto 1](https://desafio3-neon.vercel.app/)** | Um projeto para o 3° desafio do Trilhas Inova | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |  
 
 
 
