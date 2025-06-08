@@ -24,7 +24,4 @@
   <a href="www.linkedin.com/in/pytwerdev">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/pytwer.dev/"> 
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> 
-  </a> 
 </div>
