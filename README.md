@@ -6,7 +6,7 @@
 ## **🛠 Tech Stack**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,cpp,figma,git,github,vscode" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,python,mysql,cpp,figma,git,github,vscode" alt="Tech Icons" />
 </div>
 
 ## **🚀 Projetos Destacados**  
